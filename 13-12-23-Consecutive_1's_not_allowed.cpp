@@ -26,7 +26,7 @@ Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(N)
 
 Constraints:
-1 ≤ N ≤ 105
+1 ≤ N ≤ 10^5
 
 */
 
